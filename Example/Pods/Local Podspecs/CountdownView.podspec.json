@@ -1,0 +1,22 @@
+{
+  "name": "CountdownView",
+  "version": "0.1.0",
+  "summary": "A short description of CountdownView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lukesgridstone/CountdownView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lukesgridstone": "lukes@gridstone.com.au"
+  },
+  "source": {
+    "git": "https://github.com/lukesgridstone/CountdownView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CountdownView/Classes/**/*"
+}

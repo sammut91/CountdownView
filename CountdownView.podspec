@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CountdownView'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'This is the summary of CountdownView and what it can do. This should be meaningful.'
 
 # This description is used to generate tags and improve search results.

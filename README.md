@@ -7,6 +7,7 @@
 ## Usage
 In order to use CountdownView simply initialise as basic version of the component as shown below:
 
+~~~        
 let countdownView = CountdownView()
 
 // Countdown until a future date
@@ -19,6 +20,7 @@ countdownView.countdown(for: 10000, inIntervalsOf: 0.5)
 countdownView.changeHandler = { interval in
 print(interval)
 }
+~~~
 
 ![](https://media.giphy.com/media/93lAqclkAtskTuuP41/giphy.gif)
 
@@ -48,4 +50,3 @@ Luke Sammut, sammut91@gmail.com
 ## License
 
 CountdownView is available under the MIT license. See the LICENSE file for more info.
-

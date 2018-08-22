@@ -25,6 +25,10 @@ public class CountdownView: UIView {
         }
     }
 
+    public var isCountingDown: Bool {
+        return timer?.isValid ?? false
+    }
+
     // MARK: - Private Properties
     private static let calendar = Calendar.current
     private let displayComponents: [Calendar.Component]

@@ -18,7 +18,7 @@ countdownView.countdown(for: 10000, inIntervalsOf: 0.5)
 
 // Subscribe to all the changes 
 countdownView.changeHandler = { interval in
-print(interval)
+    print(interval)
 }
 ~~~
 

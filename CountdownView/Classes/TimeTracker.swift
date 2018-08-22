@@ -2,7 +2,7 @@
 //  TimeTracker.swift
 //  CountdownView
 //
-//  Created by QHMW64 on 22/8/18.
+//  Created by Luke Sammut on 22/8/18.
 //
 
 import Foundation

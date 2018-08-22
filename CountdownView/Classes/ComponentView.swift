@@ -2,7 +2,7 @@
 //  ComponentView.swift
 //  CountdownView
 //
-//  Created by QHMW64 on 17/8/18.
+//  Created by Luke Sammut on 17/8/18.
 //
 
 import UIKit

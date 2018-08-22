@@ -1,6 +1,6 @@
 # CountdownView
 
-[![CI Status](https://img.shields.io/travis/lukesgridstone/CountdownView.svg?style=flat)](https://travis-ci.org/lukesgridstone/CountdownView)
+[![CI Status](https://img.shields.io/travis/sammut91/CountdownView.svg?style=flat)](https://travis-ci.org/sammut91/CountdownView)
 [![Version](https://img.shields.io/cocoapods/v/CountdownView.svg?style=flat)](https://cocoapods.org/pods/CountdownView)
 [![License](https://img.shields.io/cocoapods/l/CountdownView.svg?style=flat)](https://cocoapods.org/pods/CountdownView)
 [![Platform](https://img.shields.io/cocoapods/p/CountdownView.svg?style=flat)](https://cocoapods.org/pods/CountdownView)
@@ -22,7 +22,7 @@ pod 'CountdownView'
 
 ## Author
 
-lukesgridstone, lukes@gridstone.com.au
+Luke Sammut, sammut91@gmail.com
 
 ## License
 

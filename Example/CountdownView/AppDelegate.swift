@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CountdownView
 //
-//  Created by lukesgridstone on 08/17/2018.
-//  Copyright (c) 2018 lukesgridstone. All rights reserved.
+//  Created by Luke Sammut on 08/17/2018.
+//  Copyright (c) 2018 Luke Sammut. All rights reserved.
 //
 
 import UIKit

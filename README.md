@@ -5,10 +5,10 @@
 [![Platform](https://img.shields.io/cocoapods/p/CountdownView.svg?style=flat)](https://cocoapods.org/pods/CountdownView)
 
 ## Usage
-In order to use CountdownView simply initialise as basic version of the component as shown below:
+In order to use LSCountdownView simply initialise as basic version of the component as shown below:
 
 ~~~        
-let countdownView = CountdownView()
+let countdownView = LSCountdownView()
 
 // Countdown until a future date
 countdownView.countdown(until: futureDate)
@@ -18,7 +18,7 @@ countdownView.countdown(for: 10000, inIntervalsOf: 0.5)
 
 // Subscribe to all the changes 
 countdownView.changeHandler = { interval in
-    print(interval)
+print(interval)
 }
 ~~~
 
@@ -31,7 +31,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-* In order to use CountdownView, a minimum iOS version of 11.0 is required.
+* In order to use LSCountdownView, a minimum iOS version of 11.0 is required.
 * Swift 4.2 
 
 ## Installation
@@ -40,7 +40,7 @@ CountdownView is available through [CocoaPods](https://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'CountdownView'
+pod 'LSCountdownView'
 ```
 
 ## Author

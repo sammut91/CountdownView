@@ -1,0 +1,6 @@
+framework module Pods_LSCountdownView_Tests {
+  umbrella header "Pods-LSCountdownView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

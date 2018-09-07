@@ -1,0 +1,6 @@
+framework module LSCountdownView {
+  umbrella header "LSCountdownView-umbrella.h"
+
+  export *
+  module * { export * }
+}

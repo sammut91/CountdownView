@@ -1,27 +1,16 @@
 PODS:
-  - CountdownView (0.1.0)
-  - Nimble (7.0.3)
-  - Quick (1.2.0)
+  - LSCountdownView (0.1.0)
 
 DEPENDENCIES:
-  - CountdownView (from `../`)
-  - Nimble (~> 7.0.2)
-  - Quick (~> 1.2.0)
-
-SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
-    - Nimble
-    - Quick
+  - LSCountdownView (from `../`)
 
 EXTERNAL SOURCES:
-  CountdownView:
+  LSCountdownView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CountdownView: c073271c3585abe050cdaaaa68847c0fcf7872b5
-  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
-  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  LSCountdownView: bb7bb1a08d925c9f9968cc5523226eb21605dbbc
 
-PODFILE CHECKSUM: f0ac80c224b014299e08f72925fccc9eb116008e
+PODFILE CHECKSUM: 0f6ba2e801d8f91a7b5d6b392dda2f5e7eb17bdc
 
 COCOAPODS: 1.5.3

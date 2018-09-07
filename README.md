@@ -1,4 +1,4 @@
-# CountdownView
+# LSCountdownView
 
 [![Version](https://img.shields.io/cocoapods/v/CountdownView.svg?style=flat)](https://cocoapods.org/pods/CountdownView)
 [![License](https://img.shields.io/cocoapods/l/CountdownView.svg?style=flat)](https://cocoapods.org/pods/CountdownView)
